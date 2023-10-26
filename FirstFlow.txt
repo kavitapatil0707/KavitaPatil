@@ -1,0 +1,5 @@
+Created text document
+
+1. use command git add --a
+
+2.use command git commit -m "Commied file"
