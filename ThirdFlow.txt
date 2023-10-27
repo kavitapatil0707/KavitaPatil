@@ -10,3 +10,8 @@ Here we have to commit only changes made in firstflow file and not newly created
 
 
 so only one file will commit
+
+
+Forth flow
+restore file from staging area
+use command git restore --staged 'file name'
