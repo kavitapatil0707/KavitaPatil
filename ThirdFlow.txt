@@ -1,0 +1,12 @@
+Creadted new file "Third flow"
+ and modified firstflow file
+
+Here we have to commit only changes made in firstflow file and not newly created file , so used following commmands 
+
+1.git status
+2.git add "File Name"
+3.git commit -m "Masage"
+
+
+
+so only one file will commit

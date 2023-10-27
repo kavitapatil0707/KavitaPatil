@@ -1,5 +1,15 @@
 Created text document
 
+Flow 1 : Create new file
 1. use command git add --a
 
 2.use command git commit -m "Commied file"
+
+
+
+Flow 2 : modify file
+
+1.USe command git status
+2. git commit -m "massage"
+3 git status
+
