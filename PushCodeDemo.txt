@@ -1,1 +1,4 @@
 Plz follow follwing steps to push code in GitHub
+
+A. Create GitHub account
+	1.open gtihub.com , sign up and create account.
