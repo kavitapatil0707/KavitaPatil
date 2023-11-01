@@ -2,3 +2,6 @@ Plz follow follwing steps to push code in GitHub
 
 A. Create GitHub account
 	1.open gtihub.com , sign up and create account.
+B. Create SSH Key.
+C.Use command git push origin master
+	here origin is name main server and master is your local repo 
