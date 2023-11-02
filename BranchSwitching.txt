@@ -1,1 +1,1 @@
-Dis is updated develop branch file.   Modified for merge conflict demo 11/2/2023 8 pm
+Dis is updated develop branch file.   Modified for merge conflict demo 11/2/2023 8 pm . Select 'Keep both code'.
